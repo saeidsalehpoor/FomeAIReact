@@ -8,6 +8,8 @@ npm install axios
 
 --Install Material UI
 
+npm install @mui/icons-material
+
 npm install @mui/material @emotion/react @emotion/styled
 
 npm install @mui/x-date-pickers
