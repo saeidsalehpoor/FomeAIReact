@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TaskManagerApp",
-    "slug": "TaskManagerApp",
+    "name": "fomeai-react",
+    "slug": "fomeai-react",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
